@@ -1,0 +1,36 @@
+[
+  {
+    "id": "9a7be21490f8d256d47afcf2ce936c98ed11ee8645cc281b7393b82b9d82b706i0",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "M1 Yellow"
+      },
+      {
+        "trait_type": "Fur",
+        "value": "M1 Golden Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "M1 Closed"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "M1 Wool Turtleneck"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "M1 Spinner Hat"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1 Bored Unshaven"
+      }
+    ]
+  },
+  {
+    "id": "9a7be21490f8d256d47afcf2ce936c98ed11ee8645cc281b7393b82b9d82b706i0",
+    "attributes": [
+    ]
+  }
+]
