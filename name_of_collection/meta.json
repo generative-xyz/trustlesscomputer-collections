@@ -1,0 +1,12 @@
+{
+  "name": "NameOfCollection",
+  "inscription_icon": "INSCRIPTION_ID",
+  "supply": "MAX_SUPPLY",
+  "slug": "name_of_collection",
+  "description": "describe about your collection",
+  "twitter_link": "",
+  "discord_link": "",
+  "website_link": "",
+  "wallet_address": "eth_wallet_payment_address",
+  "royalty": "0"
+}

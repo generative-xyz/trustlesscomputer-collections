@@ -1,0 +1,14 @@
+[
+  {
+    "id": "INSCRIPTION_ID_1",
+    "meta": {
+      "name": "NameOfCollection #1"
+    }
+  },
+  {
+    "id": "INSCRIPTION_ID_2",
+    "meta": {
+      "name": "NameOfCollection #1"
+    }
+  }
+]
