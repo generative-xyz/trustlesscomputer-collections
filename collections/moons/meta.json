@@ -3,5 +3,6 @@
     "supply": 50,
     "slug": "moons",
     "description": "The original Moons on bitcoin blockchain, 50 unique moon Ordinals. 3200+ strong community on Discord.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinal Moons"
 }

@@ -3,5 +3,6 @@
     "supply": 100,
     "slug": "cat-warriors",
     "description": "100 hand drawn OCW on ordinals. The war begins",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinal Cat Warriors"
 }

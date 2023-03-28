@@ -3,5 +3,6 @@
     "supply": 8,
     "slug": "football-legends",
     "description": "Football Legends is a collection of 10 Ordinals - unique digital collectibles on the Bitcoin blockchain.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Football Legends"
 }

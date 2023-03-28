@@ -3,5 +3,6 @@
     "supply": 24,
     "slug": "apucat-nft",
     "description": "Inspired by the \ud83d\udc51 nft on the blockchain Apu cartel of Twetch  , Apucats are the first based kitties ordinal inscriptions on bitcoin!",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "ApucatNFT"
 }

@@ -3,5 +3,6 @@
     "supply": 101,
     "slug": "digital-artifacts-btc",
     "description": "101 Digital Artifacts unearthed by the Travelling Sealsman",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Digital Artifacts - BTC"
 }

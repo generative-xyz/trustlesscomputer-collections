@@ -3,5 +3,6 @@
     "supply": 100,
     "slug": "at-sats",
     "description": "100 .sats names of @0-99 inscribed with recommended syntax by @sats_names ",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "@#.sats"
 }

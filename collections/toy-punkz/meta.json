@@ -3,5 +3,6 @@
     "supply": 236,
     "slug": "toy-punkz",
     "description": "TOY PUNKZ on Bitcoin are digital collectables that are inspired from L3G0 Punks. Collecting these ordinals comes with special privileges across the blockchain. Twitter: @TOYPUNKZ",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "TOYPUNKZ"
 }

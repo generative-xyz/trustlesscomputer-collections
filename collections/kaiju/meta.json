@@ -3,5 +3,6 @@
     "supply": 50,
     "slug": "kaiju",
     "description": "50 ancient genesis Kaiju on the Bitcoin Blockchain!",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Kaiju Ordinal"
 }

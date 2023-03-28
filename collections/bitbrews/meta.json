@@ -3,5 +3,6 @@
     "supply": 51,
     "slug": "bitbrews",
     "description": "Legend has it that the BitBrews were created specifically for Bitcoin by the \"Bartenders of the Blockchain\", also known as the PixaWizards! Kick back and have a BitBrew, but enjoy responsibly! Made by Pixa.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "BitBrews"
 }

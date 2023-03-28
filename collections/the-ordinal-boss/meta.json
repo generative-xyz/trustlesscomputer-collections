@@ -3,5 +3,6 @@
     "supply": 10,
     "slug": "the-ordinal-boss",
     "description": "Collectible cards featuring Mr. Ordinal, the Bitcoin Boss.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "The Ordinal Boss"
 }

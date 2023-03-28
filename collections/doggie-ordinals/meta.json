@@ -3,5 +3,6 @@
     "supply": 13,
     "slug": "doggie-ordinals",
     "description": "Doggie Ordinals is a collection of 20 unique digital assets minted using the ordinals protocol on the Bitcoin network in a decentralized manner.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Doggie Ordinals"
 }

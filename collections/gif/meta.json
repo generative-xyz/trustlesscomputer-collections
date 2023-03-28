@@ -3,5 +3,6 @@
     "supply": 61,
     "slug": "gif",
     "description": "61 ordinals GIF featuring unique 1 of 1 animated art pieces on BTC.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "GIF"
 }

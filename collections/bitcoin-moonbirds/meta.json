@@ -3,5 +3,6 @@
     "supply": 10000,
     "slug": "bitcoin-moonbirds",
     "description": "Bitcoin Moonbirds are byte-perfect inscriptions of the original Moonbirds to the Bitcoin blockchain using Ordinals. They are fully on-chain, Bitcoin native, and completely decentralized digital artifacts.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Bitcoin Moonbirds"
 }

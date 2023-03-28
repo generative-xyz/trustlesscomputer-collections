@@ -3,5 +3,6 @@
     "supply": 351,
     "slug": "bitquacks",
     "description": "350 inscribed BitQuacks Ordinals with rarity traits. Brought to you by the MoonQuacks team.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "BitQuacks"
 }

@@ -3,5 +3,6 @@
     "supply": 100,
     "slug": "btc-mutant-operators",
     "description": "BTC Mutant Operators",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "BTC Mutant Operators"
 }

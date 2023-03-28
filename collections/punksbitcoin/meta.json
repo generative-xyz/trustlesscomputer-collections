@@ -3,5 +3,6 @@
     "supply": 33,
     "slug": "punksbitcoin",
     "description": "Unique Genesis 33 PUNKSBITCOIN on Ordinals. Collector of this collection will received many benefit on Bitcoin Ecosystem",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "PUNKSBITCOIN"
 }

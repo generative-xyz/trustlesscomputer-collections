@@ -3,5 +3,6 @@
     "supply": 100,
     "slug": "bitcoin-dickbutts",
     "description": "First Dickbutts Ordinal Collection. 100 dickbutts inscribed on satoshis on the Bitcoin blockchain.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "BitcoinDickbutts"
 }

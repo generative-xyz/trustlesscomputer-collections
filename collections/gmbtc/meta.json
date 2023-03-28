@@ -3,5 +3,6 @@
     "supply": 10,
     "slug": "gmbtc",
     "description": "gmBTC",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "gmBTC"
 }

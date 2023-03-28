@@ -3,5 +3,6 @@
     "supply": 111,
     "slug": "moonsheep",
     "description": "111 Moonsheep, from a @TheSadTimesCo parallel universe, stored permanently within the first 100,000 Ordinal inscriptions on the Bitcoin network.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Moonsheep"
 }

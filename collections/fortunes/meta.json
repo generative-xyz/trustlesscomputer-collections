@@ -3,5 +3,6 @@
     "supply": 21,
     "slug": "fortunes",
     "description": "21 unique fortune cookies living on the blockchain. Get cracking! \ud83e\udd60",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Fortunes"
 }

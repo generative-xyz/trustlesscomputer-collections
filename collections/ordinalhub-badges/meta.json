@@ -3,5 +3,6 @@
     "supply": 1000,
     "slug": "ordinalhub-badges",
     "description": "OrdinalHub Badges were a limited drop to the early community members of OrdinalHub to show our appreciation, and to teach onboarding and storage.  There will only ever be 1,000 badges!",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "OrdinalHub Badges"
 }

@@ -3,5 +3,6 @@
     "supply": 10,
     "slug": "buidlings",
     "description": "A collection of buidlings. For the buidlers. Wagbi.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Buidlings"
 }

@@ -3,5 +3,6 @@
     "supply": 26,
     "slug": "a-z-sats",
     "description": "26 .sats names of @a-z inscribed with recommended syntax by @sats_names ",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "@a-z.sats"
 }

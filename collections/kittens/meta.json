@@ -3,5 +3,6 @@
     "supply": 22,
     "slug": "kittens",
     "description": "110 Ordinal Kittens inscribed on Bitcoin. A project building educational platform to onboard more people into Web3 space.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinal Kittens"
 }

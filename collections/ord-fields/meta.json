@@ -3,5 +3,6 @@
     "supply": 42,
     "slug": "ord-fields",
     "description": "42 Digital Abstracts. @ordinal_fields",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ord Fields"
 }

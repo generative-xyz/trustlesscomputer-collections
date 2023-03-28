@@ -3,5 +3,6 @@
     "supply": 333,
     "slug": "mutant-apes",
     "description": "The Mutant Apes of Ordinals is a collaborative collection of 333 PFPs deployed using Ordinals Theory on the Bitcoin Blockchain. We cross the theme of Doodles with the traits and appearances of Mutant Ape Yacht Club.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Mutant Apes"
 }

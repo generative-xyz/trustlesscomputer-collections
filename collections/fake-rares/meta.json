@@ -3,5 +3,6 @@
     "supply": 200,
     "slug": "fake-rares",
     "description": "200 supply Fake Rares; a collection of Crypto Punk inspired Pepe\u2019s",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Fake Rares"
 }

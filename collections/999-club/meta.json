@@ -3,5 +3,6 @@
     "supply": 1000,
     "slug": "999-club",
     "description": "999.btc inscribed ordinals",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "999 Club"
 }

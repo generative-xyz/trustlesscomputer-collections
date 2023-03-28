@@ -3,5 +3,6 @@
     "supply": 100,
     "slug": "taproot-punks",
     "description": "Taproot Punks",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Taproot Punks"
 }

@@ -3,5 +3,6 @@
     "supply": 96,
     "slug": "davinci-cats",
     "description": "The collection contains 96 unique inscriptions of mysterious cats oil paintings on the Bitcoin blockchain. Minted within the first 167k ordinal inscriptions.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "DaVinci Cats"
 }

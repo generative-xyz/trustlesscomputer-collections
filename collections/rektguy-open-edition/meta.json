@@ -3,5 +3,6 @@
     "supply": 9,
     "slug": "rektguy-open-edition",
     "description": "Using the cc0 character of the infamous @rektguyNFT project, originally created by OSF, this is the first open edition minted on Bitcoin.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "rektguy Open Edition"
 }

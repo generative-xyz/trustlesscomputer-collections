@@ -3,5 +3,6 @@
     "supply": 224,
     "slug": "bitcoinphunks",
     "description": "Bitcoin Phunks are not the first byte-perfect uploads\n\n            of the original Ethereum CryptoPunks and flipped onto the Bitcoin\n            Blockchain using Ordinals. This project is not affiliated with,\n            endorsed by, or sponsored by Larva Labs, NotLarvaLabs, or the\n            Bitcoin Punks.\n            \n            ",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Bitcoinphunks"
 }

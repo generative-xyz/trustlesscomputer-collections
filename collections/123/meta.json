@@ -3,5 +3,6 @@
     "supply": 110,
     "slug": "123",
     "description": "110 Monsters living as Ordinals on Bitcoin, forever.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "123"
 }

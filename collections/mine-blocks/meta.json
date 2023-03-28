@@ -3,5 +3,6 @@
     "supply": 108,
     "slug": "mine-blocks",
     "description": "Our Genesis Block Collection for the first Mine-Like Game on Ordinals. Each Block holder receive a Game Inscription as well. Try it NOW! https://ordinals.com/content/8e8d6686573000f3c5f83290f01604daef88024bd25cd87278c7af5dbfd6b28ei0",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinal MineBlocks"
 }

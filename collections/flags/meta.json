@@ -3,5 +3,6 @@
     "supply": 50,
     "slug": "flags",
     "description": "Collection of 50 countries flags on Bitcoin Blockchain",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinal Flags"
 }

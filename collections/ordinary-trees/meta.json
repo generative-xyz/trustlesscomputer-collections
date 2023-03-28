@@ -3,5 +3,6 @@
     "supply": 21,
     "slug": "ordinary-trees",
     "description": "21 generative trees paying homage to Bitcoin and Ordinals. Each tree is seeded with the public key derived from a BIP32 path rooted at m/71233 and shined down upon by an ordinal sun.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ordinary Trees"
 }

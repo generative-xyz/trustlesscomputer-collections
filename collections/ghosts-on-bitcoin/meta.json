@@ -3,5 +3,6 @@
     "supply": 50,
     "slug": "ghosts-on-bitcoin",
     "description": "OG collection on BTC. 50 unique Ghosts.",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "Ghosts on Bitcoin"
 }

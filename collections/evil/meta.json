@@ -3,5 +3,6 @@
     "supply": 7,
     "slug": "evil",
     "description": "7 evil ordinals, get ready to uncover great secrets on Bitcoin (#58535-145304 Inscription Range)",
-    "source": "ordswap.io"
+    "source": "ordswap.io",
+    "name": "evil ordinals"
 }
