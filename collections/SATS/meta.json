@@ -1,0 +1,13 @@
+{
+  "name": "Looking for Satoshi - SATS to SATS",
+  "inscription_icon": "1030ad07e6b1c68453db843fdeff6244a1196da4e59328a51d5507301ef38d38i0",
+  "supply": "MAX_101",
+  "slug": "SATS",
+  "description": "SATS to SATS is a collection of art pieces based on the painting 'Looking for Satoshi' by Rutger van der Tas.
+The ordinals in this collections are firstly minted on Async and afterwards inscribed by the artist. Looping the painting back into Bitcoin. For an complete overview of the project, which covers multiple chains and platforms you can check the website and follow the artist.",
+  "twitter_link": "https://twitter.com/rutgervandertas",
+  "discord_link": "https://discord.gg/WcJdCWmx",
+  "website_link": "http://lookingforsatoshi.io",
+  "wallet_address": "0x84300dCc7ca9Cf447e886fA17C11fa22557d1AF0",
+  "royalty": "500"
+}
