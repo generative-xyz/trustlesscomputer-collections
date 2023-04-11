@@ -4,5 +4,14 @@
   "description": "",
   "animation_url": "",
   "youtube_url": "",
-  "attributes": []
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "M1 Yellow"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "M1 Golden Brown"
+    }
+  ]
 }
