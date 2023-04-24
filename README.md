@@ -2,7 +2,7 @@
 
 ## Make Pull Request to Github directly - technically
 
-- git clone https://github.com/generative-xyz/ordinals-collections.git
+- git clone https://github.com/generative-xyz/trustlesscomputer-collections.git
 - Create sub folder in collections/
 - Make meta.json file with collection info
 - Make inscriptions.json with list your inscriptions id
@@ -14,5 +14,5 @@
 - or https://twitter.com/generative_xyz
 
 # Reference
-- https://github.com/generative-xyz/ordinals-collections/tree/main/name_of_collection
-- or https://github.com/generative-xyz/ordinals-collections/tree/main/collections/autorex-meme on https://generative.xyz/generative/1000572 
+- https://github.com/generative-xyz/trustlesscomputer-collections/tree/main/name_of_collection
+- or https://github.com/generative-xyz/trustlesscomputer-collections/tree/main/collections/autorex-meme on https://generative.xyz/generative/1000572 
